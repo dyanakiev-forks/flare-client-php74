@@ -1,6 +1,6 @@
 {
-    "name": "spatie/flare-client-php",
-    "description": "Send PHP errors to Flare",
+    "name": "dyanakiev-forks/flare-client-php74",
+    "description": "Send PHP errors to Flare php 7.4",
     "keywords": [
         "spatie",
         "flare",
